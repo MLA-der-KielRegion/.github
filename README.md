@@ -1,4 +1,3 @@
-#.github
 # MLA Kielregion
 
 Die Datenplattform der KielRegion basiert auf der skalierbaren ADDIX Datenplattform 2.0 und dem ADDIX ASDP Architekturmodell und firmiert unter dem Projektnahmen "Mobility Live Acess", kurz MLA. Versionsstände sind vom Zeitpunkt der Erstellung dieser Dokumentation und können vom aktuellen Stand des MLA abweichen.
