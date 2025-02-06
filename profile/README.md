@@ -9,6 +9,15 @@ Basis der Komponenten des MLA ist ein K8S Kubernetes Cluster.
 
 Durch die flexible und skalierbare Architektur auf Basis von Kubernetes lassen sich so weitere Ausbaustufen je nach aktuellem Leistungsbedarf und aktuellen Anforderungen nahezu beliebig anpassen.
 
+Die Plattform bietet unter anderem ein umfangreiches Rechtemanagement
+
+* Tenant-Management auf Basis von Realms
+* User-Management pro Tenant
+* Zugriffsmanagement pro User und Realm
+  * Zugriffsbeschränkungen auf Basis von Datenmodellen
+  * Zugriffsbeschränkungen auf Basis von Applikationen
+  * Zugriffsbeschränkungen auf Basis von Datentypen
+
 ## Services
 
 Im Cluster sind neben den zum sinnvollen Betrieb eines K8S-Clusters notwendigen Diensten die nachfolgenden relevanten Services für den MLA im Einsatz:
