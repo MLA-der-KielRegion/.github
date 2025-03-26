@@ -37,7 +37,7 @@ Im Cluster sind neben den zum sinnvollen Betrieb eines K8S-Clusters notwendigen 
 | Quantumleap      | QuantumLeap ist eine API, die die Speicherung von FIWARE NGSI-Daten in eine Zeitreihen-Datenbank unterstützt. | 1.0.0             |                             |
 | TimescaleDB       | PostgreSQL mit einer Erweiterung für Zeitreihen | pg14.6-ts2.9.1-p1 |                             |
 | Valkey           | Valkey ist ein quelloffener (BSD) Hochleistungs-Schlüssel/Wert-Datenspeicher, der eine Vielzahl von Arbeitslasten wie Caching und Nachrichtenwarteschlangen unterstützt und als primäre Datenbank fungieren kann. Valkey kann entweder als eigenständiger Daemon oder in einem Cluster laufen, mit Optionen für Replikation und Hochverfügbarkeit. | 7.2.6             |                             |
-| Scorpio Broker   | Scorpio ist ein NGSI-LD-konformer Kontextbroker, der von NEC Laboratories Europe und NEC Technologies India entwickelt wurde. Er implementiert die vollständige NGSI-LD-API gemäß der Spezifikation der ETSI Industry Specification Group on cross cutting Context Information Management (ETSI ISG CIM). | 5.0.6 |                             |
+| Scorpio Broker   | Scorpio ist ein NGSI-LD-konformer Kontextbroker, der von NEC Laboratories Europe und NEC Technologies India entwickelt wurde. Er implementiert die vollständige NGSI-LD-API gemäß der Spezifikation der ETSI Industry Specification Group on cross cutting Context Information Management (ETSI ISG CIM). | 5.0.7 |                             |
 | RabbitMQ         | RabbitMQ ist ein zuverlässiger und ausgereifter Messaging- und Streaming-Broker, der sich leicht in Cloud-Umgebungen, vor Ort und auf einem lokalen Rechner einsetzen lässt. | 4.0.4 | Im MLA wird er insbesondere für den Scorpio Broker verwendet. |
 | PostgreSQL       | PostgreSQL ist ein leistungsfähiges, objektrelationales Open-Source-Datenbanksystem, das seit mehr als 35 Jahren aktiv entwickelt wird und sich einen guten Ruf in Bezug auf Zuverlässigkeit, Robustheit der Funktionen und Leistung erworben hat. | 17.2.0            | Datenbank für den Scorpio Broker |
 | Trafficsign      | Trafficsign überwacht definierte Entitäten auf Veränderung und löst Prozessketten aus um die daraus resultierenden Informationen an die Verkehrsinfotafeln zu übertragen und dort anschließend entsprechende Programme anzufordern | 1.0.0             | kein Open Source, Entwicklung durch ADDIX |
@@ -45,4 +45,4 @@ Im Cluster sind neben den zum sinnvollen Betrieb eines K8S-Clusters notwendigen 
 | SCD              | Smartcity Dashboard von EDAG                      | 0.19.1 | https://github.com/triveme/smartcity-dashboard |
 
 ## License
-Copyright ©2024 ADDIX GmbH.
+Copyright ©2025 ADDIX GmbH.
